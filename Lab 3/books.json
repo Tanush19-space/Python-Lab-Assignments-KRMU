@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "Ayush Raj",
+        "isbn": "1234",
+        "status": "available"
+    },
+    {
+        "title": "Love is Life",
+        "author": "Angad Singh",
+        "isbn": "1235",
+        "status": "available"
+    }
+]
